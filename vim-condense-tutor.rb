@@ -142,6 +142,7 @@ MyClass.method("param")
   'scrooloose/nerdcommenter.git'
 
 # Usefull links
+  Type 'vimtutor' from your command line for an extensive course in vim
   My vim config: https://github.com/spyou/vim-dotfile
   This vim condense tutor file: https://github.com/spyou/vim-condense-tutor
   Vimcast: http://vimcasts.org/ and @vimcast
