@@ -141,6 +141,10 @@ MyClass.method("param")
   'gregsexton/gitv'
   'scrooloose/nerdcommenter.git'
 
+# Good to know
+  <ctr> + z will put your vim in foreground
+  fg will revive it
+
 # Usefull links
   Type 'vimtutor' from your command line for an extensive course in vim
   My vim config: https://github.com/spyou/vim-dotfile
