@@ -113,6 +113,10 @@ MyClass.method("param")
 Change this title tag into another text with cit
 <h1>My title</h1>
 
+Make this text a <p> tag with the surrounds plugin cs"<p>
+"
+
+"this is my paragraph"
 
 # Visual mode
 
