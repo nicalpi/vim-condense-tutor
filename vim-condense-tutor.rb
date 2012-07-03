@@ -110,6 +110,10 @@ change the params with ci"
 "
 MyClass.method("param")
 
+Change this title tag into another text with cit
+<h1>My title</h1>
+
+
 # Visual mode
 
   v to enter visual mode
