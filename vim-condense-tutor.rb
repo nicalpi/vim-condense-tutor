@@ -155,6 +155,7 @@ MyClass.method("param")
   Type 'vimtutor' from your command line for an extensive course in vim
   My vim config: https://github.com/spyou/vim-dotfile
   This vim condense tutor file: https://github.com/spyou/vim-condense-tutor
+  Vim tips wiki: http://vim.wikia.com/wiki/Vim_Tips_Wiki
   Vimcast: http://vimcasts.org/ and @vimcast
   Bristol workshop in October: http://www.wantworkshop.com/workshops/vimcasts_workshop/locations/uk-bristol
   Practical Vim book: http://pragprog.com/book/dnvim/practical-vim
