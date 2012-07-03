@@ -8,6 +8,7 @@
   :e to open and edit a file
   :q to quit
   :q! to quit without saving
+  Press . to repeat last command
 
 # Need help?
 
@@ -119,6 +120,11 @@ MyClass.method("param")
   q[letter] to start macros recording.
   q to stop recording
   {count}@[letter] to call macros {count} times. Count is optional.
+
+  Try this qa^t"avar: <esc>jq
+  "
+
+  Now you can repeat @a macros
 
   MyClass.method("params")
   MyClass.method_second("params2")
