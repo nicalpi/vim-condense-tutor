@@ -103,7 +103,7 @@
 Try it now
 
 To change this sentence use cis
-To change to the end of the line use r$
+To change to the end of the line use c$
 To replace this x char with y use ry
 Now replace this word with another by cwanother
 change the params with ci"
