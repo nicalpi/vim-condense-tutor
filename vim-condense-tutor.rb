@@ -143,6 +143,7 @@ MyClass.method("param")
 
 # Usefull links
   My vim config: https://github.com/spyou/vim-dotfile
+  This vim condense tutor file: https://github.com/spyou/vim-condense-tutor
   Vimcast: http://vimcasts.org/ and @vimcast
   Bristol workshop in October: http://www.wantworkshop.com/workshops/vimcasts_workshop/locations/uk-bristol
   Practical Vim book: http://pragprog.com/book/dnvim/practical-vim
